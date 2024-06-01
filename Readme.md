@@ -1,11 +1,11 @@
-# RISC_Processor
+# RISC Processor
 
 This repository is a verilog HDL implementation of RISC like processor with it's own set of Instruction Formats.
 
 Go through the report for further information regarding the code and implementation [Report](./RISC_V_report.pdf)
 
 
-##Datapath
+## Datapath
 ![Datapath](imgs/datapath.png)
 
 
